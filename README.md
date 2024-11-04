@@ -17,6 +17,6 @@ Drag the menu DLL into Plugins - AND START THE GAME
 # ENJOY!!!!!!
    
                                                                                                       
-WEBSITE: https://j0kermodz.lol/
+WEBSITE: https://www.j0kermodz.lol
 
-Discord: https://discord.gg/j0kermodz
+Discord: https://discord.gg/Kdwqg2VUHc
