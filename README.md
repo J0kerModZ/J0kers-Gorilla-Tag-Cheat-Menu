@@ -14,6 +14,15 @@ RUN THE GAME AND QUIT
 Drag the menu DLL into Plugins - AND START THE GAME
 ------------
 
+# Mods
+------------
+- Get Guardian (Makes you big)
+- Fling all (If you are Big/Guardian you can fling players out of the map)
+- Press Gamemode Button (presses the guardian button)
+- leave (Leavs the lobby)
+
+- Player sizer (If you are master you can set the size of other players Server Sided)
+
 # ENJOY!!!!!!
    
                                                                                                       
