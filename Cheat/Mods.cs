@@ -58,14 +58,10 @@ namespace J0kersGuardianMenu.Cheat
             {
                 foreach (VRRig VrRigs in GorillaParent.instance.vrrigs)
                 {
-                    // Skip the local player to prevent flinging yourself
-                    if (VrRigs != GorillaTagger.Instance.offlineVRRig && VrRigs.OwningNetPlayer != NetworkSystem.Instance.LocalPlayer)
-                    {
-                        // Send RPCs only to other players
-                        NetViewInVRRig(VrRigs).SendRPC("GrabbedByPlayer", RpcTarget.All, new object[] { true, false, false });
+                    // Send RPCs only to other players
+                    NetViewInVRRig(VrRigs).SendRPC("GrabbedByPlayer", RpcTarget.All, new object[] { true, false, false });
 
-                        NetViewInVRRig(VrRigs).SendRPC("DroppedByPlayer", RpcTarget.All, new object[] { new Vector3(0f, 20f, 0f) }); // Flings them on the Y-axis (20f is max)
-                    }
+                    NetViewInVRRig(VrRigs).SendRPC("DroppedByPlayer", RpcTarget.All, new object[] { new Vector3(0f, 20f, 0f) }); // Flings them on the Y-axis (20f is max)
                 }
             }
         }
