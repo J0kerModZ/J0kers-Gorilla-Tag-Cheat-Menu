@@ -1,4 +1,6 @@
-# Thanks For Using J0kers Guardian Panel
+# Thanks For Using J0kers Gorilla Tag Cheat Menu
+---------------------------
+- This Menu Will Get Updated For Diffrent Gorilla Tag Updates!
 ---------------------------
 # HOW TO USE:
                
@@ -16,12 +18,10 @@ https://github.com/BepInEx/BepInEx/releases/tag/v5.4.21
 
 # Mods
 ------------
-- Get Guardian (Makes you big)
-- Fling all (If you are Big/Guardian you can fling players out of the map)
-- Press Gamemode Button (presses the guardian button)
+- Block Spammer
+- Block Spammer Others 
 - leave (Leavs the lobby)
-
-- Player sizer (If you are master you can set the size of other players Server Sided)
+- Anti 8 Week Ban (Auto on can't be turned off)
 
 # ENJOY!!!!!!
    
